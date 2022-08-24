@@ -7,8 +7,8 @@ import os
 import goslate
 import json
 
-aws_access_key = "AKIAUHNPAIBFR5P2ZZMY"
-aws_secret_key = "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"
+aws_access_key = "##############"
+aws_secret_key = "########################"
 signature_version = "s3v4"
 region_name = "ap-south-1"
 aws_bucket = None
